@@ -1,7 +1,7 @@
 spring:
   mvc:
     view:
-      prefix: /templates/
+      prefix: /META-INF/resources/
       suffix: .jsp
 
 logging:
